@@ -4,14 +4,10 @@
     "description": "Hosteamos diversión y modalidades únicas",
     "addresses": [
         "zonecraft.es",
-        "zonecn.es",
         "hypixel.es",
         "amamarla.com",
-        "banananetwork.es",
         "darktimes.es",
-        "bedwars.es",
         "zonehosting.net",
-        "skywars.es",
         "pickaxe.es"
     ],
     "primaryAddress": "play.zonecraft.es",
@@ -27,6 +23,7 @@
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
+        
     ],
     "primaryRegion": "NA",
     "gameTypes": [
